@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace QRS.Blazor.WebAssembly
+namespace QRS.Blazor.Wasm
 {
     public class Program
     {
